@@ -1,0 +1,19 @@
+
+{
+  "name": "babel-plugin-transform-switch-with",
+  "version": "1.0.0",
+  "description": "Compile switch-with statement and expressions.",
+  "repository": "https://github.com/pj/babel-plugin-transform-switch-with",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "babel-plugin-syntax-switch-with": "^1.0.0",
+    "babel-runtime": "^5.0.0"
+  },
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "^6.0.0"
+  }
+}
