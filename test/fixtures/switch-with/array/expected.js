@@ -1,3 +1,5 @@
+"use strict";
+
 var _switchVar = [1, 2.0, "3", null];
 
 var _switchResult;

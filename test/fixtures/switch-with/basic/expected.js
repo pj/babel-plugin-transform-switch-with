@@ -1,3 +1,5 @@
+"use strict";
+
 var _switchVar = "foo";
 
 var _switchResult;

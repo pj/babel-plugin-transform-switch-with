@@ -1,3 +1,5 @@
+"use strict";
+
 var _switchVar = { a: "hello", b: "world" };
 
 var _switchResult;

@@ -1,3 +1,4 @@
 {
-    "plugins": ["transform-switch-with"]
+    "presets": ["es2015"],
+    "plugins": ["../../../lib"]
 }
